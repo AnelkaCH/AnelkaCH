@@ -1,6 +1,6 @@
 # Hi there, I'm Anelka 👋
 
-I'm a web developer at **GenDigital Academy**, incoming **Computer Science & Design** student at **SUTD** (Class of 2030), and an aspiring cybersecurity professional (GRC / SOC). I'm outgoing, a fast learner, and always building something new.
+I'm a web developer at **GenDigital Academy**, future **Computer Science & Design** student at **SUTD** (Class of 2030), and an aspiring cybersecurity professional (GRC / SOC). I'm outgoing, a fast learner, and always building something new.
 
 <a href="https://www.linkedin.com/in/anelka-hariyanto">
   <img src="https://img.shields.io/badge/LinkedIn-Anelka_Hariyanto-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
