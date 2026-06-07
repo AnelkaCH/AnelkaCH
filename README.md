@@ -17,7 +17,7 @@ I'm a web developer at **GenDigital Academy**, future **Computer Science & Desig
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![C++](https://img.shields.io/badge/PHP-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ### Frameworks & Libraries
   ![Phaser](https://img.shields.io/badge/Phaser-FF6B35?style=for-the-badge&logo=gamedeveloper&logoColor=white)
