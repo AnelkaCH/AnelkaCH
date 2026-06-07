@@ -2,6 +2,10 @@
 
 I'm a web developer at **GenDigital Academy**, incoming **Computer Science & Design** student at **SUTD** (Class of 2030), and an aspiring cybersecurity professional (GRC / SOC). I'm outgoing, a fast learner, and always building something new.
 
+<a href="https://www.linkedin.com/in/anelka-hariyanto">
+  <img src="https://img.shields.io/badge/LinkedIn-Anelka_Hariyanto-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
 ---
 
 ## 🛠️ Tech Stack
@@ -38,14 +42,6 @@ I'm a web developer at **GenDigital Academy**, incoming **Computer Science & Des
 - 🌏 Based in Indonesia, soon heading to Singapore University of Technology and Design
 - 🔐 Passionate about cybersecurity — building towards GRC & SOC roles
 - 🌐 Fluent in English and Bahasa Indonesia, with some proficiency in German (B1) and Mandarin (HSK2)
-
----
-
-## 📬 Let's Connect
-
-<a href="https://www.linkedin.com/in/anelka-hariyanto">
-  <img src="https://img.shields.io/badge/LinkedIn-Anelka_Hariyanto-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
 
 ---
 
