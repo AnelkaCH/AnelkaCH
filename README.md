@@ -29,6 +29,23 @@ I'm a web developer at **GenDigital Academy**, incoming **Computer Science & Des
 
 ---
 
+## 🎯 A Bit More About Me
+
+- 🎵 K-pop enthusiast and casual gamer
+- 🌏 Based in Indonesia, soon heading to Singapore University of Technology and Design
+- 🔐 Passionate about cybersecurity — building towards GRC & SOC roles
+- 🌐 Fluent in English and Bahasa Indonesia, with some proficiency in German (B1) and Mandarin (HSK2)
+
+---
+
+## 📬 Let's Connect
+
+<a href="https://www.linkedin.com/in/anelka-hariyanto">
+  <img src="https://img.shields.io/badge/LinkedIn-Anelka_Hariyanto-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -42,24 +59,7 @@ I'm a web developer at **GenDigital Academy**, incoming **Computer Science & Des
 
 ---
 
-## 🎯 A Bit More About Me
-
-- 🎵 K-pop enthusiast and casual gamer
-- 🌏 Based in Indonesia, soon heading to Singapore for uni
-- 🔐 Passionate about cybersecurity — building towards GRC & SOC roles
-- 🌐 Currently learning German (B1+)
-- ⚡ Fun fact: I once built a project using Arduino, OpenCV, *and* a 3D model — all in the same week
-
----
-
-## 📬 Let's Connect
-
-<a href="https://www.linkedin.com/in/anelka-hariyanto">
-  <img src="https://img.shields.io/badge/LinkedIn-Anelka_Hariyanto-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AnelkaCH&style=flat-square&color=6e7681&label=profile+views" alt="Profile views" />
 </p>
+
