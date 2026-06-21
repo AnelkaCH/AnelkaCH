@@ -1,6 +1,6 @@
 # Hi there, I'm Anelka 👋
 
-I'm a web developer at **GenDigital Academy**, future **Computer Science & Design** student at **SUTD** (Class of 2030), and an aspiring cybersecurity professional . I'm outgoing, a fast learner, and always building something new. I have worked on many projects, such as Web Developement, Game Development, Android App Development, Machine Learning, and so much more!
+I'm a web developer at **GenDigital Academy**, a backend AI engineer at **FlyRank AI**, and a future **Computer Science & Design** student at **SUTD** (Class of 2030). I am also an aspiring cybersecurity professional. I'm outgoing, a fast learner, and always building something new. I have worked on many projects, such as Web Developement, Game Development, Android App Development, Machine Learning, and so much more!
 
 ### Connect with me!
 <a href="https://www.linkedin.com/in/anelka-hariyanto">
