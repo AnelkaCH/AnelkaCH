@@ -8,6 +8,15 @@ I'm a web developer at **GenDigital Academy**, future **Computer Science & Desig
 
 ---
 
+## 💻 Projects Done
+
+- 🌐 Web Development
+- 🎮 Game Development
+- 📱 Android App Development
+- 🤖 Machine Learning and AI
+
+---
+
 ## 🛠️ Tech Stack
 
 ### Languages
@@ -48,7 +57,10 @@ I'm a web developer at **GenDigital Academy**, future **Computer Science & Desig
 ## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AnelkaCH&theme=dark" alt="GitHub Streak" /></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnelkaCH&layout=compact&theme=github_dark&hide_border=true" height="165" alt="Top Languages" />
+
+  <img src="https://streak-stats.demolab.com?user=AnelkaCH&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+
 </p>
 
 ---
