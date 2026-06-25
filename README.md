@@ -39,9 +39,9 @@ I'm a web developer at **GenDigital Academy**, a backend AI engineer at **FlyRan
 
 ## 🎯 A Bit More About Me
 
-- 🎵 K-pop enthusiast and casual gamer
+- 🎵 K-pop enthusiast and casual gamer (love Honkai Star Rail :D)
 - 🌏 Based in Indonesia, soon heading to Singapore University of Technology and Design
-- 🔐 Passionate about cybersecurity — building towards GRC & SOC roles
+- 🔐 Passionate about cybersecurity - building towards security-focused roles
 - 🌐 Fluent in English and Bahasa Indonesia, with some proficiency in German (B1) and Mandarin (HSK2)
 
 ---
