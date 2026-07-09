@@ -124,7 +124,7 @@ A mobile social media app mockup, covering UI/UX design, navigation, and core so
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AnelkaCH&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AnelkaCH&theme=dark&ring=2563EB&fire=2563EB&currStreakLabel=2563EB" alt="GitHub Streak" /></a>
 
 </p>
 
