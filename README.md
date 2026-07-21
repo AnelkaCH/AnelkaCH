@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Anelka 👋</h1>
-<h3 align="center">Full-Stack Developer | Aspiring Cybersecurity Professional | SUTD '30</h3>
+<h3 align="center">Full-Stack Developer building towards Security | SUTD '30</h3>
 
 <p align="center">
 I love building things across the stack and breaking things (safely😅) to learn how to defend them.<br>
@@ -25,13 +25,17 @@ Now, I'm heading to Singapore this September to make it official.
 ## 🌟 Featured Projects
 
 ### 🔍 Job Monitoring System *(Work in Progress)*
-A Python-based monitoring tool that tracks and notifies me of job postings across different companies. Built with an adapter pattern spanning multiple ATS platforms like Greenhouse, Lever, and Ashby. It also includes ethical features such as rate limiter and a robots.txt compliance checker. Doubles as a practical job-hunting tool and a demonstration of API integration, system design, and adapter-based architecture.
+A Python-based monitoring tool that tracks and notifies me of job postings across different companies. Built with an adapter pattern spanning 10+ ATS platforms like Greenhouse, Lever, and Ashby. 
+
+It is also built with ethical safeguards in mind, including a rate limiter with hard-stop enforcement and a robots.txt compliance check, which shows deliberate respect for platform terms of service and scraping ethics.
+
+It doubles as a practical job-hunting tool and a demonstration of API integration, system design, and adapter-based architecture.
 `Python` `API Integration` `System Design`
 
 [![Repository](https://img.shields.io/badge/View_Repository-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnelkaCH/2026Project-Job-Monitoring-System)
 
 ### 🔑 Password Strength Checker *(Work in Progress)*
-A tool that evaluates password strength against common security criteria. Currently a basic project, but soon will be expanded with entropy based scoring and an NIST SP 800-63B compliance checker.
+A tool that evaluates password strength against common security criteria. Currently a project in its early stages, but soon will be expanded with entropy based scoring and an NIST SP 800-63B compliance checker.
 `Python` `Security Fundamentals`
 
 [![Repository](https://img.shields.io/badge/View_Repository-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnelkaCH/2026Project-Password-Strength-Checker)
