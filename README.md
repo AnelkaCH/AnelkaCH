@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Anelka 👋</h1>
-<h3 align="center">Full-Stack Developer | Aspiring Cybersecurity Professional | SUTD CSD '30</h3>
+<h3 align="center">Full-Stack Developer | Aspiring Cybersecurity Professional | SUTD '30</h3>
 
 <p align="center">
-I love building things across the stack and breaking things (safely) to learn how to defend them.<br>
+I love building things across the stack and breaking things (safely😅) to learn how to defend them.<br>
 Now, I'm heading to Singapore this September to make it official.
 </p>
 
@@ -19,9 +19,51 @@ Now, I'm heading to Singapore this September to make it official.
 - 💻 **Full Stack Developer Intern** @ Accelist Lentera Indonesia (building with .NET, Next.js, and React JS)
 - 🤖 **Backend AI Engineering Intern** @ FlyRank AI (developing backend AI engineering projects and implementing AI workflows)
 - 🌐 **Web Developer** @ GenDigital Academy (building with Wix and CMS)
-- 🎓 Preparing to start **Computer Science & Design (CSD)** at **SUTD** in September 2026 on the ASEAN Undergraduate Scholarship, focused on the **security** track
+- 🎓 Preparing to start learning at **SUTD** in September 2026 on the ASEAN Undergraduate Scholarship, planning to take **Computer Science and Design** focused on the **security** track
 - 🔐 Currently working towards **SC-900**
 - 🛠️ Actively building personal projects, like a **password strength checker** and a **job-monitoring system** targeting the Singapore tech/cyber market (details below!)
+
+---
+
+## 🌟 Featured Projects
+
+### 🔍 Job Monitoring System *(Work in Progress)*
+A Python-based monitoring tool that tracks and alertjob postings across different companies. Built with an adapter pattern spanning multiple ATS platforms like Greenhouse, Lever, and Ashby. It also includes ethical features such as rate limiter and a robots.txt compliance chcker. Doubles as a practical job-hunting tool and a demonstration of API integration, system design, and adapter-based architecture.
+`Python` `API Integration` `System Design`
+
+[![Repository](https://img.shields.io/badge/View_Repository-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnelkaCH/2026Project-Job-Monitoring-System)
+
+### 🔑 Password Strength Checker *(Work in Progress)*
+A tool that evaluates password strength against common security criteria. Currently a basic project, but soon will be expanded with entropy based scoring and an NIST SP 800-63B compliance checker.
+`Python` `Security Fundamentals`
+
+[![Repository](https://img.shields.io/badge/View_Repository-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnelkaCH/2026Project-Password-Strength-Checker)
+
+### 🥇 STeLAR - Science Teaching and Learning AR
+An augmented reality project built with Meta Spark AR, designed to create a more interactive method of learning. It won first place in the UNTAR Meta Spark AR Competition 2024, recognized nationally for its design and execution.
+`Augmented Reality` `Meta Spark`
+
+[![Repository](https://img.shields.io/badge/View_Repository-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnelkaCH/2024Project-Science-Teaching-And-Learning-AR-with-Meta-Spark)
+
+### 🔌 DARWIN - Detection of Acid Rain and Water Idealisation Network
+An IoT project built on Arduino and Pictoblox, exploring hardware-software integration for real-world sensing and automation. It was made for Codeavour 7.0 competition.
+`IoT` `Arduino` `Pictoblox` `Embedded Systems`
+
+[![Repository](https://img.shields.io/badge/View_Repository-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnelkaCH/2026Project-Acid-Rain-Detector-with-Pictoblox)
+
+### 📚 Library Management System Prototype
+A system built to allow easy book management and smooth borrowing procedures.
+`PHP` `MySQL`
+
+[![Repository](https://img.shields.io/badge/View_Repository-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnelkaCH/2024Project-Library-Books-Management-System)
+
+### 📱 Social Media App with React Native
+A mobile social media app mockup, covering UI/UX design, navigation, and core social features.
+`React Native` `Mobile Dev` `UI/UX`
+
+[![Repository](https://img.shields.io/badge/View_Repository-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnelkaCH/2024Project-Social-Media-App-with-React-Native)
+
+*(More projects, including ML/CV work and my full AI development curriculum, are pinned on my profile!)*
 
 ---
 
@@ -63,43 +105,6 @@ Now, I'm heading to Singapore this September to make it official.
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Maya_3D-0696D7?style=for-the-badge&logo=autodesk&logoColor=white" />
 </p>
-
----
-
-## 🌟 Featured Projects
-
-### 🔍 Job Monitoring System *(Work in Progress)*
-A Python-based monitoring tool that tracks and alertjob postings across different companies. Built with an adapter pattern spanning multiple ATS platforms like Greenhouse, Lever, and Ashby. Doubles as a practical job-hunting tool and a demonstration of API integration, system design, and adapter-based architecture.
-`Python` `API Integration` `System Design`
-
-[![Repository](https://img.shields.io/badge/View_Repository-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnelkaCH/2026Project-Job-Monitoring-System)
-
-### 🔑 Password Strength Checker *(Work in Progress)*
-A tool that evaluates password strength against common security criteria. It's a small, early project but it's also a reflection of where my interests are heading.
-`Python` `Security Fundamentals`
-
-[![Repository](https://img.shields.io/badge/View_Repository-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnelkaCH/2026Project-Password-Strength-Checker)
-
-### 🥇 STeLAR - Science Teaching and Learning AR
-An augmented reality project built with Meta Spark AR, designed to create a more interactive method of learning. It won first place in the UNTAR Meta Spark AR Competition 2024, recognized nationally for its design and execution.
-`AR/VR` `Meta Spark` `Creative Tech`
-
-[![Repository](https://img.shields.io/badge/View_Repository-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnelkaCH/2024Project-Science-Teaching-And-Learning-AR-with-Meta-Spark)
-
-
-### 🔌 DARWIN - Detection of Acid Rain and Water Idealisation Network
-An IoT project built on Arduino and Pictoblox, exploring hardware-software integration for real-world sensing and automation. It was made for Codeavour 7.0 competition.
-`IoT` `Arduino` `Embedded Systems`
-
-[![Repository](https://img.shields.io/badge/View_Repository-0A66C2?style=for-the-badge&logo=github&logoColor=white)](...)
-
-### 📱 Social Media App with React Native
-A mobile social media app mockup, covering UI/UX design, navigation, and core social features.
-`React Native` `Mobile Dev` `UI/UX`
-
-[![Repository](https://img.shields.io/badge/View_Repository-0A66C2?style=for-the-badge&logo=github&logoColor=white)](...)
-
-*(More projects, including ML/CV work and my full AI development curriculum, are pinned on my profile!)*
 
 ---
 
