@@ -119,7 +119,7 @@ A mobile social media app mockup, covering UI/UX design, navigation, and core so
 - 📃 Developing a stronger understanding of **governance**, **risk management**, and **frameworks** such as **ISO 27001**
 - ☁️ Building cloud security foundations through **Azure**, **Entra ID**, **Sentinel**, and **Defender XDR**
 - 🏆 Next certification goal: **SC-900** and **Security+**
-- 🧩 Palnning to apply security concepts through CTFs, labs, and other projects
+- 🧩 Planning to apply security concepts through CTFs, labs, and other projects
 
 ---
 
