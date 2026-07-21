@@ -14,14 +14,11 @@ Now, I'm heading to Singapore this September to make it official.
 
 ---
 
-## 🚀 Current Focus
+## 🚀 Current Work
 
 - 💻 **Full Stack Developer Intern** @ Accelist Lentera Indonesia (building with .NET, Next.js, and React JS)
 - 🤖 **Backend AI Engineering Intern** @ FlyRank AI (developing backend projects and implementing AI workflows)
 - 🌐 **Web Developer** @ GenDigital Academy (building with Wix and CMS)
-- 🎓 Preparing to start learning at **SUTD** in September 2026 on the ASEAN Undergraduate Scholarship, planning to take **Computer Science and Design** focused on the **security** track
-- 🔐 Currently working towards **SC-900**
-- 🛠️ Actively building personal projects, like a **password strength checker** and a **job-monitoring system** targeting the Singapore tech/cyber market (details below!)
 
 ---
 
