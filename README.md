@@ -14,6 +14,17 @@ Now, I'm heading to Singapore this September to make it official.
 
 ---
 
+## 🚀 Current Focus
+
+- 💻 **Full Stack Developer Intern** @ Accelist Lentera Indonesia (building with .NET, Next.js, and React JS)
+- 🤖 **Backend AI Engineering Intern** @ FlyRank AI (developing backend projects and implementing AI workflows)
+- 🌐 **Web Developer** @ GenDigital Academy (building with Wix and CMS)
+- 🎓 Preparing to start learning at **SUTD** in September 2026 on the ASEAN Undergraduate Scholarship, planning to take **Computer Science and Design** focused on the **security** track
+- 🔐 Currently working towards **SC-900**
+- 🛠️ Actively building personal projects, like a **password strength checker** and a **job-monitoring system** targeting the Singapore tech/cyber market (details below!)
+
+---
+
 ## 🌟 Featured Projects
 
 ### 🔍 Job Monitoring System *(Work in Progress)*
@@ -56,26 +67,14 @@ A mobile social media app mockup, covering UI/UX design, navigation, and core so
 
 ---
 
-## 🚀 Current Focus
-
-- 💻 **Full Stack Developer Intern** @ Accelist Lentera Indonesia (building with .NET, Next.js, and React JS)
-- 🤖 **Backend AI Engineering Intern** @ FlyRank AI (developing backend projects and implementing AI workflows)
-- 🌐 **Web Developer** @ GenDigital Academy (building with Wix and CMS)
-- 🎓 Preparing to start learning at **SUTD** in September 2026 on the ASEAN Undergraduate Scholarship, planning to take **Computer Science and Design** focused on the **security** track
-- 🔐 Currently working towards **SC-900**
-- 🛠️ Actively building personal projects, like a **password strength checker** and a **job-monitoring system** targeting the Singapore tech/cyber market (details below!)
-
-
----
-
 ## 🛠️ Tech Stack
 
-<h3 align="center">Languages</h2>
+<h3 align="center">Languages</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-682876?style=for-the-badge&logo=sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" />
@@ -83,12 +82,15 @@ A mobile social media app mockup, covering UI/UX design, navigation, and core so
   <img src="https://img.shields.io/badge/SQL-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
 </p>
 
-<h3 align="center">Frameworks and Libraries</h2>
+<h3 align="center">Frameworks and Libraries</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swagger_UI-85EA2D?style=for-the-badge&logo=swagger&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
@@ -96,13 +98,18 @@ A mobile social media app mockup, covering UI/UX design, navigation, and core so
   <img src="https://img.shields.io/badge/Phaser-FF6B35?style=for-the-badge&logo=gamedeveloper&logoColor=white" />
 </p>
 
-<h3 align="center">Tools and Platforms</h2>
+<h3 align="center">Databases</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+<h3 align="center">Tools and Platforms</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Maya_3D-0696D7?style=for-the-badge&logo=autodesk&logoColor=white" />
 </p>
