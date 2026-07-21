@@ -17,7 +17,7 @@ Now, I'm heading to Singapore this September to make it official.
 ## 🌟 Featured Projects
 
 ### 🔍 Job Monitoring System *(Work in Progress)*
-A Python-based monitoring tool that tracks and alertjob postings across different companies. Built with an adapter pattern spanning multiple ATS platforms like Greenhouse, Lever, and Ashby. It also includes ethical features such as rate limiter and a robots.txt compliance chcker. Doubles as a practical job-hunting tool and a demonstration of API integration, system design, and adapter-based architecture.
+A Python-based monitoring tool that tracks and notifies me of job postings across different companies. Built with an adapter pattern spanning multiple ATS platforms like Greenhouse, Lever, and Ashby. It also includes ethical features such as rate limiter and a robots.txt compliance checker. Doubles as a practical job-hunting tool and a demonstration of API integration, system design, and adapter-based architecture.
 `Python` `API Integration` `System Design`
 
 [![Repository](https://img.shields.io/badge/View_Repository-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnelkaCH/2026Project-Job-Monitoring-System)
@@ -59,7 +59,7 @@ A mobile social media app mockup, covering UI/UX design, navigation, and core so
 ## 🚀 Current Focus
 
 - 💻 **Full Stack Developer Intern** @ Accelist Lentera Indonesia (building with .NET, Next.js, and React JS)
-- 🤖 **Backend AI Engineering Intern** @ FlyRank AI (developing backend AI engineering projects and implementing AI workflows)
+- 🤖 **Backend AI Engineering Intern** @ FlyRank AI (developing backend projects and implementing AI workflows)
 - 🌐 **Web Developer** @ GenDigital Academy (building with Wix and CMS)
 - 🎓 Preparing to start learning at **SUTD** in September 2026 on the ASEAN Undergraduate Scholarship, planning to take **Computer Science and Design** focused on the **security** track
 - 🔐 Currently working towards **SC-900**
@@ -115,7 +115,7 @@ A mobile social media app mockup, covering UI/UX design, navigation, and core so
 - 📃 Developing a stronger understanding of **governance**, **risk management**, and **frameworks** such as **ISO 27001**
 - ☁️ Building cloud security foundations through **Azure**, **Entra ID**, **Sentinel**, and **Defender XDR**
 - 🏆 Next certification goal: **SC-900** and **Security+**
-- 🧩 Applying concepts through CTFs, labs, and security-focused projects
+- 🧩 Palnning to apply security concepts through CTFs, labs, and other projects
 
 ---
 
