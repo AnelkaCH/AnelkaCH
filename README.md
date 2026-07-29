@@ -14,11 +14,10 @@ Now, I'm heading to Singapore this September to make it official.
 
 ---
 
-## 🚀 Work Experience
+## 🚀 Current Responsibilities
 
-- 💻 **Full Stack Developer Intern** @ Accelist Lentera Indonesia (building with .NET, Next.js, and React JS) **[Currently Working]**
-- 🤖 **Backend AI Engineering Intern** @ FlyRank AI (developing backend projects and implementing AI workflows) **[Currently Working]**
-- 🌐 **Web Developer** @ GenDigital Academy (building with Wix and CMS)
+- 💻 **Full Stack Developer Intern** @ Accelist Lentera Indonesia (building with .NET, Next.js, and React JS)
+- 🤖 **Backend AI Engineering Intern** @ FlyRank AI (developing backend projects and implementing AI workflows)
 
 ---
 
