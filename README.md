@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Developer building towards Security | SUTD '30</h3>
 
 <p align="center">
-I love building things across the stack and breaking things (safely😅) to learn how to defend them.<br>
+I enjoy building projects across the stack and breaking things (safely ofc😅) to learn how to defend them.<br>
 Now, I'm heading to Singapore this September to make it official.
 </p>
 
@@ -14,7 +14,7 @@ Now, I'm heading to Singapore this September to make it official.
 
 ---
 
-## 🚀 Current Responsibilities
+## 🚀 Current Endeavors
 
 - 💻 **Full Stack Developer Intern** @ Accelist Lentera Indonesia (building with .NET, Next.js, and React JS)
 - 🤖 **Backend AI Engineering Intern** @ FlyRank AI (developing backend projects and implementing AI workflows)
