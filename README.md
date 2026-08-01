@@ -69,7 +69,7 @@ A mobile social media app mockup, covering UI/UX design, navigation, and core so
 
 ## 🛠️ Tech Stack
 
-<h3 align="center">Languages</h3>
+<h3 align="center">Programming Languages</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -78,8 +78,6 @@ A mobile social media app mockup, covering UI/UX design, navigation, and core so
   <img src="https://img.shields.io/badge/C%23-682876?style=for-the-badge&logo=sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" />
 </p>
 
 <h3 align="center">Frameworks</h3>
@@ -111,7 +109,7 @@ A mobile social media app mockup, covering UI/UX design, navigation, and core so
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swagger_UI-85EA2D?style=for-the-badge&logo=swagger&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 </p>
 
@@ -130,14 +128,14 @@ A mobile social media app mockup, covering UI/UX design, navigation, and core so
 - 💻 Exploring **SIEM platforms**, **SOAR workflows**, and **log analysis** to understand modern SOC operations
 - 📃 Developing a stronger understanding of **governance**, **risk management**, and **frameworks** such as **ISO 27001**
 - ☁️ Building cloud security foundations through **Azure**, **Entra ID**, **Sentinel**, and **Defender XDR**
-- 🏆 Next certification goal: **SC-900** and **Security+**
-- 🧩 Planning to apply security concepts through CTFs, labs, and other projects
+- 🏆 Current milestone target: **SC-900** | Next milestone target: **Security+**
+- 🧩 Planning to apply security concepts through CTFs, labs, internships, and personal projects
 
 ---
 
 ## 🌍 Beyond Tech
 
-- 🎵 K-pop enthusiast and casual gamer. I'm currently deep into **NMIXX** and **Honkai: Star Rail**
+- 🎵 K-pop enthusiast and casual gamer. If you love **NMIXX** and **Honkai: Star Rail**, let's chat :D
 - 🌏 Based in Indonesia, heading to Singapore University of Technology and Design this September
 - 🗣️ Fluent in English and Bahasa Indonesia, conversational in German (B1 certified) and Mandarin
 
