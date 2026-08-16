@@ -10,7 +10,7 @@ Now, I'm heading to Singapore this September to make it official.
   <a href="https://www.linkedin.com/in/anelka-hariyanto">
     <img src="https://img.shields.io/badge/LinkedIn-Anelka_Hariyanto-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="[https://www.linkedin.com/in/anelka-hariyanto](https://anelka-hariyanto.vercel.app/)">
+  <a href="https://anelka-hariyanto.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio_Website-Anelka_Hariyanto-FFBF00?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
