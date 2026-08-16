@@ -10,6 +10,9 @@ Now, I'm heading to Singapore this September to make it official.
   <a href="https://www.linkedin.com/in/anelka-hariyanto">
     <img src="https://img.shields.io/badge/LinkedIn-Anelka_Hariyanto-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="[https://www.linkedin.com/in/anelka-hariyanto](https://anelka-hariyanto.vercel.app/)">
+    <img src="https://img.shields.io/badge/Portfolio_Website-Anelka_Hariyanto-FFBF00?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -23,7 +26,7 @@ Now, I'm heading to Singapore this September to make it official.
 
 ## 🌟 Featured Projects
 
-### 🔍 Job Monitoring System *(Work in Progress)*
+### 🔍 Job Monitoring System
 A Python-based monitoring tool that tracks and notifies me of job postings across different companies. Built with an adapter pattern spanning 10+ ATS platforms like Greenhouse, Lever, and Ashby. 
 
 It is also built with ethical safeguards in mind, including a rate limiter with hard-stop enforcement and a robots.txt compliance check, which shows deliberate respect for platform terms of service and scraping ethics.
