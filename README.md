@@ -36,6 +36,13 @@ It doubles as a practical job-hunting tool and a demonstration of API integratio
 
 [![Repository](https://img.shields.io/badge/View_Repository-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnelkaCH/2026Project-Job-Monitoring-System)
 
+### 🔐 Auth API with Supabase
+A backend authentication service built to practice real auth, not stubbed-out routes. Uses Supabase for sign up, log in, and log out, and issues JWTs to lock down protected endpoints, so a missing or invalid token gets a clean 401 instead of a fake pass-through.
+It includes a full interactive Swagger UI at `/docs`, where you can authorize with a token and test protected routes directly in the browser, no Postman needed.
+`Supabase` `JWT` `Authentication` `Security`
+
+[![Repository](https://img.shields.io/badge/View_Repository-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnelkaCH/2026Project-FlyRank-Auth-API)
+
 ### 🔑 Password Strength Checker *(Work in Progress)*
 A tool that evaluates password strength against common security criteria. Currently a project in its early stages, but soon will be expanded with entropy based scoring and an NIST SP 800-63B compliance checker.
 `Python` `Security Fundamentals`
@@ -53,18 +60,6 @@ An IoT project built on Arduino and Pictoblox, exploring hardware-software integ
 `IoT` `Arduino` `Pictoblox` `Embedded Systems`
 
 [![Repository](https://img.shields.io/badge/View_Repository-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnelkaCH/2026Project-Acid-Rain-Detector-with-Pictoblox)
-
-### 📚 Library Management System Prototype
-A system built to allow easy book management and smooth borrowing procedures.
-`PHP` `MySQL`
-
-[![Repository](https://img.shields.io/badge/View_Repository-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnelkaCH/2024Project-Library-Books-Management-System)
-
-### 📱 Social Media App with React Native
-A mobile social media app mockup, covering UI/UX design, navigation, and core social features.
-`React Native` `Mobile Dev` `UI/UX`
-
-[![Repository](https://img.shields.io/badge/View_Repository-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnelkaCH/2024Project-Social-Media-App-with-React-Native)
 
 *(More projects, including ML/CV work and my full AI development curriculum, are pinned on my profile!)*
 
