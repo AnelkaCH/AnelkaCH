@@ -44,7 +44,7 @@ It includes a full interactive Swagger UI at `/docs`, where you can authorize wi
 [![Repository](https://img.shields.io/badge/View_Repository-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnelkaCH/2026Project-FlyRank-Auth-API)
 
 ### 🔑 Password Strength Checker *(Work in Progress)*
-A tool that evaluates password strength against common security criteria. Currently a project in its early stages, but soon will be expanded with entropy based scoring and an NIST SP 800-63B compliance checker.
+A tool that evaluates password strength against guessability-derived entropy scoring with the help of zxcvbn. Currently a project in its early stages, but soon will be expanded with an NIST SP 800-63B compliance checker and more security features.
 `Python` `Security Fundamentals`
 
 [![Repository](https://img.shields.io/badge/View_Repository-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnelkaCH/2026Project-Password-Strength-Checker)
