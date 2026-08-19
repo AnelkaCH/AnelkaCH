@@ -36,18 +36,18 @@ It doubles as a practical job-hunting tool and a demonstration of API integratio
 
 [![Repository](https://img.shields.io/badge/View_Repository-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnelkaCH/2026Project-Job-Monitoring-System)
 
+### 🔑 Password Strength Checker
+A tool that evaluates password strength against guessability-derived entropy scoring with the help of zxcvbn and an NIST SP 800-63B compliance checker. Currently a project in its early stages, but soon will be expanded with more security features.
+`NIST SP 800-63B` `Python` `Security Fundamentals`
+
+[![Repository](https://img.shields.io/badge/View_Repository-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnelkaCH/2026Project-Password-Strength-Checker)
+
 ### 🔐 Auth API with Supabase
 A backend authentication service built to practice real auth, not stubbed-out routes. Uses Supabase for sign up, log in, and log out, and issues JWTs to lock down protected endpoints, so a missing or invalid token gets a clean 401 instead of a fake pass-through.
 It includes a full interactive Swagger UI at `/docs`, where you can authorize with a token and test protected routes directly in the browser, no Postman needed.
 `Supabase` `JWT` `Authentication` `Security`
 
 [![Repository](https://img.shields.io/badge/View_Repository-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnelkaCH/2026Project-FlyRank-Auth-API)
-
-### 🔑 Password Strength Checker *(Work in Progress)*
-A tool that evaluates password strength against guessability-derived entropy scoring with the help of zxcvbn. Currently a project in its early stages, but soon will be expanded with an NIST SP 800-63B compliance checker and more security features.
-`Python` `Security Fundamentals`
-
-[![Repository](https://img.shields.io/badge/View_Repository-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnelkaCH/2026Project-Password-Strength-Checker)
 
 ### 🥇 STeLAR - Science Teaching and Learning AR
 An augmented reality project built with Meta Spark AR, designed to create a more interactive method of learning. It won first place in the UNTAR Meta Spark AR Competition 2024, recognized nationally for its design and execution.
