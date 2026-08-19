@@ -38,7 +38,7 @@ It doubles as a practical job-hunting tool and a demonstration of API integratio
 [![Repository](https://img.shields.io/badge/View_Repository-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnelkaCH/2026Project-Job-Monitoring-System)
 
 ### 🔑 Password Strength Checker
-A tool that evaluates password strength against guessability-derived entropy scoring with the help of zxcvbn and an NIST SP 800-63B compliance checker. Currently a project in its early stages, but soon will be expanded with more security features.
+A tool that evaluates password strength against guessability-derived entropy scoring with the help of zxcvbn and an NIST SP 800-63B compliance checker that outputs a compliance report. Currently a project in its early stages, but soon will be expanded with more security features.
 
 `NIST SP 800-63B` `Python` `Security Fundamentals`
 
@@ -66,7 +66,7 @@ An IoT project built on Arduino and Pictoblox, exploring hardware-software integ
 
 [![Repository](https://img.shields.io/badge/View_Repository-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnelkaCH/2026Project-Acid-Rain-Detector-with-Pictoblox)
 
-*(More projects, including ML/CV work and my full AI development curriculum, are pinned on my profile!)*
+*(More projects, including ML/CV work and my full AI development curriculum, are in my repositories!)*
 
 ---
 
