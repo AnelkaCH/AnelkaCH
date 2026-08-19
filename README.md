@@ -53,7 +53,7 @@ It includes a full interactive Swagger UI at `/docs`, where you can authorize wi
 [![Repository](https://img.shields.io/badge/View_Repository-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnelkaCH/2026Project-FlyRank-Auth-API)
 
 ### 🥇 STeLAR - Science Teaching and Learning AR
-An augmented reality project built with Meta Spark AR, designed to create a more interactive method of learning. It won first place in the UNTAR Meta Spark AR Competition 2024, recognized nationally for its design and execution.
+An augmented reality project built with Meta Spark AR, designed to create a more interactive method of learning. It won first place in the UNTAR Meta Spark AR Competition 2024.
 
 `Augmented Reality` `Meta Spark`
 
