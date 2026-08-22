@@ -4,47 +4,37 @@
 
 ### 🔐 Security Projects
 
-- **Job Monitoring System**
+- [**Job Monitoring System** ](https://github.com/AnelkaCH/2026Project-Job-Monitoring-System)
 
   A Python-based job monitoring tool and notifier using public APIs, built with an adapter pattern spanning 10+ ATS platforms. Includes a rate limiter with hard-stop enforcement and robots.txt compliance checks to ensure the system works safely and ethically.
 
   `Python` `API Integration` `System Design`
 
-  [![Repository](https://img.shields.io/badge/View_Repository-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnelkaCH/2026Project-Job-Monitoring-System)
-
-- **Password Strength Checker**
+- [**Password Strength Checker**](https://github.com/AnelkaCH/2026Project-Password-Strength-Checker)
 
   A CLI tool that evaluates password strength against guessability-derived entropy scoring with the help of zxcvbn. It is also built with an NIST SP 800-63B compliance checker that prints out a compliance report. This is part of an ongoing password manager project.
 
   `NIST SP 800-63B` `Python` `Security Fundamentals`
 
-  [![Repository](https://img.shields.io/badge/View_Repository-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnelkaCH/2026Project-Password-Strength-Checker)
-
-- **Auth API with Supabase**
+- [**Auth API with Supabase**](https://github.com/AnelkaCH/2026Project-FlyRank-Auth-API)
 
   A backend authentication service built to practice real auth, not stubbed-out routes. Uses Supabase for sign up, log in, and log out, and issues JWTs to lock down protected endpoints, so a missing or invalid token gets a clean 401 instead of a fake pass-through.
 
   `Supabase` `JWT` `Authentication` `Security`
 
-  [![Repository](https://img.shields.io/badge/View_Repository-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnelkaCH/2026Project-FlyRank-Auth-API)
-
 ### 🛠️ Other Projects
 
-- **STeLAR (Science Teaching and Learning AR)**
+- [**STeLAR (Science Teaching and Learning AR)**](https://github.com/AnelkaCH/2024Project-Science-Teaching-And-Learning-AR-with-Meta-Spark)
 
   An augmented reality project built with Meta Spark AR, designed to create a more interactive method of learning. It won first place in the UNTAR Meta Spark AR Competition 2024.
 
   `Augmented Reality` `Meta Spark`
 
-  [![Repository](https://img.shields.io/badge/View_Repository-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnelkaCH/2024Project-Science-Teaching-And-Learning-AR-with-Meta-Spark)
-
-- **DARWIN (Detection of Acid Rain and Water Idealisation Network)**
+- [**DARWIN (Detection of Acid Rain and Water Idealisation Network)**](https://github.com/AnelkaCH/2026Project-Acid-Rain-Detector-with-Pictoblox)
 
   An IoT project built on Arduino and Pictoblox, exploring hardware-software integration for real-world sensing and automation. It was made for Codeavour 7.0 competition.
 
   `IoT` `Arduino` `Pictoblox` `Embedded Systems`
-
-  [![Repository](https://img.shields.io/badge/View_Repository-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnelkaCH/2026Project-Acid-Rain-Detector-with-Pictoblox)
 
 *(More projects, including AI/ML projects, are in my repositories!)*
 
