@@ -6,9 +6,7 @@
 
 - **Job Monitoring System**
 
-  A Python-based monitoring tool that tracks and notifies me of job postings across different companies. Built with an adapter pattern spanning 10+ ATS platforms like Greenhouse, Lever, and Ashby. 
-
-  It is also built with ethical safeguards in mind, including a rate limiter with hard-stop enforcement and a robots.txt compliance check, which shows deliberate respect for platform terms of service and scraping ethics.
+  A Python-based job monitoring tool and notifier using public APIs, built with an adapter pattern spanning 10+ ATS platforms. Includes a rate limiter with hard-stop enforcement and robots.txt compliance checks to ensure the system works safely and ethically.
 
   `Python` `API Integration` `System Design`
 
@@ -16,9 +14,7 @@
 
 - **Password Strength Checker**
 
-  A CLI tool that evaluates password strength against guessability-derived entropy scoring with the help of zxcvbn. It is also built with an NIST SP 800-63B compliance checker that prints out a compliance report.
-
-  This is part of an ongoing password manager project.
+  A CLI tool that evaluates password strength against guessability-derived entropy scoring with the help of zxcvbn. It is also built with an NIST SP 800-63B compliance checker that prints out a compliance report. This is part of an ongoing password manager project.
 
   `NIST SP 800-63B` `Python` `Security Fundamentals`
 
@@ -27,8 +23,6 @@
 - **Auth API with Supabase**
 
   A backend authentication service built to practice real auth, not stubbed-out routes. Uses Supabase for sign up, log in, and log out, and issues JWTs to lock down protected endpoints, so a missing or invalid token gets a clean 401 instead of a fake pass-through.
-  
-  It includes a full interactive Swagger UI at `/docs`, where you can authorize with a token and test protected routes directly in the browser, no Postman needed.
 
   `Supabase` `JWT` `Authentication` `Security`
 
