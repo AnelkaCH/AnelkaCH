@@ -1,9 +1,7 @@
 <h1 align="center">Hi, I'm Anelka 👋</h1>
-<h3 align="center">Full-Stack Developer building towards Security | SUTD '30</h3>
 
 <p align="center">
-I enjoy building projects across the stack and breaking things (safely ofc😅) to learn how to defend them.<br>
-Now, I'm heading to Singapore this September to make it official.
+Security-focused developer building in Python, JavaScript, and Azure. Based in Indonesia, but relocating to Singapore, September 2026.
 </p>
 
 <p align="center">
@@ -28,47 +26,52 @@ Now, I'm heading to Singapore this September to make it official.
 
 ### 🔐 Security Projects
 
-#### - Job Monitoring System
-A Python-based monitoring tool that tracks and notifies me of job postings across different companies. Built with an adapter pattern spanning 10+ ATS platforms like Greenhouse, Lever, and Ashby. 
+- **Job Monitoring System**
 
-It is also built with ethical safeguards in mind, including a rate limiter with hard-stop enforcement and a robots.txt compliance check, which shows deliberate respect for platform terms of service and scraping ethics.
+  A Python-based monitoring tool that tracks and notifies me of job postings across different companies. Built with an adapter pattern spanning 10+ ATS platforms like Greenhouse, Lever, and Ashby. 
 
-It doubles as a practical job-hunting tool and a demonstration of API integration, system design, and adapter-based architecture.
+  It is also built with ethical safeguards in mind, including a rate limiter with hard-stop enforcement and a robots.txt compliance check, which shows deliberate respect for platform terms of service and scraping ethics.
 
-`Python` `API Integration` `System Design`
+  It doubles as a practical job-hunting tool and a demonstration of API integration, system design, and adapter-based architecture.
 
-[![Repository](https://img.shields.io/badge/View_Repository-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnelkaCH/2026Project-Job-Monitoring-System)
+  `Python` `API Integration` `System Design`
 
-#### - Password Strength Checker
-A tool that evaluates password strength against guessability-derived entropy scoring with the help of zxcvbn and an NIST SP 800-63B compliance checker that outputs a compliance report. Currently a project in its early stages, but soon will be expanded with more security features.
+  [![Repository](https://img.shields.io/badge/View_Repository-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnelkaCH/2026Project-Job-Monitoring-System)
 
-`NIST SP 800-63B` `Python` `Security Fundamentals`
+- **Password Strength Checker**
 
-[![Repository](https://img.shields.io/badge/View_Repository-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnelkaCH/2026Project-Password-Strength-Checker)
+  A tool that evaluates password strength against guessability-derived entropy scoring with the help of zxcvbn and an NIST SP 800-63B compliance checker that outputs a compliance report. Currently a project in its early stages, but soon will be expanded with more security features.
 
-#### - Auth API with Supabase
-A backend authentication service built to practice real auth, not stubbed-out routes. Uses Supabase for sign up, log in, and log out, and issues JWTs to lock down protected endpoints, so a missing or invalid token gets a clean 401 instead of a fake pass-through.
+  `NIST SP 800-63B` `Python` `Security Fundamentals`
+
+  [![Repository](https://img.shields.io/badge/View_Repository-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnelkaCH/2026Project-Password-Strength-Checker)
+
+- **Auth API with Supabase**
+
+  A backend authentication service built to practice real auth, not stubbed-out routes. Uses Supabase for sign up, log in, and log out, and issues JWTs to lock down protected endpoints, so a missing or invalid token gets a clean 401 instead of a fake pass-through.
 It includes a full interactive Swagger UI at `/docs`, where you can authorize with a token and test protected routes directly in the browser, no Postman needed.
 
-`Supabase` `JWT` `Authentication` `Security`
+  `Supabase` `JWT` `Authentication` `Security`
 
-[![Repository](https://img.shields.io/badge/View_Repository-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnelkaCH/2026Project-FlyRank-Auth-API)
+  [![Repository](https://img.shields.io/badge/View_Repository-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnelkaCH/2026Project-FlyRank-Auth-API)
 
 ### 🛠️ Other Projects
 
-#### - STeLAR (Science Teaching and Learning AR)
-An augmented reality project built with Meta Spark AR, designed to create a more interactive method of learning. It won first place in the UNTAR Meta Spark AR Competition 2024.
+- **STeLAR (Science Teaching and Learning AR)**
 
-`Augmented Reality` `Meta Spark`
+  An augmented reality project built with Meta Spark AR, designed to create a more interactive method of learning. It won first place in the UNTAR Meta Spark AR Competition 2024.
 
-[![Repository](https://img.shields.io/badge/View_Repository-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnelkaCH/2024Project-Science-Teaching-And-Learning-AR-with-Meta-Spark)
+  `Augmented Reality` `Meta Spark`
 
-#### - DARWIN (Detection of Acid Rain and Water Idealisation Network)
-An IoT project built on Arduino and Pictoblox, exploring hardware-software integration for real-world sensing and automation. It was made for Codeavour 7.0 competition.
+  [![Repository](https://img.shields.io/badge/View_Repository-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnelkaCH/2024Project-Science-Teaching-And-Learning-AR-with-Meta-Spark)
 
-`IoT` `Arduino` `Pictoblox` `Embedded Systems`
+- **DARWIN (Detection of Acid Rain and Water Idealisation Network)**
 
-[![Repository](https://img.shields.io/badge/View_Repository-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnelkaCH/2026Project-Acid-Rain-Detector-with-Pictoblox)
+  An IoT project built on Arduino and Pictoblox, exploring hardware-software integration for real-world sensing and automation. It was made for Codeavour 7.0 competition.
+
+  `IoT` `Arduino` `Pictoblox` `Embedded Systems`
+
+  [![Repository](https://img.shields.io/badge/View_Repository-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnelkaCH/2026Project-Acid-Rain-Detector-with-Pictoblox)
 
 *(More projects, including AI/ML projects, are in my repositories!)*
 
