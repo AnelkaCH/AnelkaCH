@@ -1,26 +1,4 @@
-<h1 align="center">Hi, I'm Anelka 👋</h1>
-
-<p align="center">
-Security-focused developer building in Python, JavaScript, and Azure. Based in Indonesia, but relocating to Singapore, September 2026.
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/anelka-hariyanto">
-    <img src="https://img.shields.io/badge/LinkedIn-Anelka_Hariyanto-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://anelka-hariyanto.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio_Website-Anelka_Hariyanto-FFBF00?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
----
-
-## Current Endeavors
-
-- **Full Stack Developer Intern** @ Accelist Lentera Indonesia (building with .NET, Next.js, and React JS)
-- **Backend AI Engineering Intern** @ FlyRank AI (developing backend projects and implementing AI workflows)
-
----
+<h1>Hi, I'm Anelka 👋 <br>Full Stack Developer, CS Student Specializing in Security (Singapore)</h1>
 
 ## Featured Projects
 
@@ -32,15 +10,15 @@ Security-focused developer building in Python, JavaScript, and Azure. Based in I
 
   It is also built with ethical safeguards in mind, including a rate limiter with hard-stop enforcement and a robots.txt compliance check, which shows deliberate respect for platform terms of service and scraping ethics.
 
-  It doubles as a practical job-hunting tool and a demonstration of API integration, system design, and adapter-based architecture.
-
   `Python` `API Integration` `System Design`
 
   [![Repository](https://img.shields.io/badge/View_Repository-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnelkaCH/2026Project-Job-Monitoring-System)
 
 - **Password Strength Checker**
 
-  A tool that evaluates password strength against guessability-derived entropy scoring with the help of zxcvbn and an NIST SP 800-63B compliance checker that outputs a compliance report. Currently a project in its early stages, but soon will be expanded with more security features.
+  A CLI tool that evaluates password strength against guessability-derived entropy scoring with the help of zxcvbn. It is also built with an NIST SP 800-63B compliance checker that prints out a compliance report.
+
+  This is part of an ongoing password manager project.
 
   `NIST SP 800-63B` `Python` `Security Fundamentals`
 
@@ -49,7 +27,8 @@ Security-focused developer building in Python, JavaScript, and Azure. Based in I
 - **Auth API with Supabase**
 
   A backend authentication service built to practice real auth, not stubbed-out routes. Uses Supabase for sign up, log in, and log out, and issues JWTs to lock down protected endpoints, so a missing or invalid token gets a clean 401 instead of a fake pass-through.
-It includes a full interactive Swagger UI at `/docs`, where you can authorize with a token and test protected routes directly in the browser, no Postman needed.
+  
+  It includes a full interactive Swagger UI at `/docs`, where you can authorize with a token and test protected routes directly in the browser, no Postman needed.
 
   `Supabase` `JWT` `Authentication` `Security`
 
@@ -78,6 +57,14 @@ It includes a full interactive Swagger UI at `/docs`, where you can authorize wi
 ---
 
 ## Tech Stack
+
+<h3 align="center">Cloud & Security</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/NIST_SP_800--63B-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase_Auth-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+</p>
 
 <h3 align="center">Programming Languages</h3>
 <p align="center">
@@ -124,7 +111,7 @@ It includes a full interactive Swagger UI at `/docs`, where you can authorize wi
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
-<h3 align="center">Platforms</h3>
+<h3 align="center">Other Platforms</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white" />
   <img src="https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white" />
@@ -132,28 +119,15 @@ It includes a full interactive Swagger UI at `/docs`, where you can authorize wi
   <img src="https://img.shields.io/badge/Maya_3D-0696D7?style=for-the-badge&logo=autodesk&logoColor=white" />
 </p>
 
----
+## Let's Connect
 
-## Learning Journey & Personal Goals
-
-- 💻 Exploring **SIEM platforms**, **SOAR workflows**, and **log analysis** to understand modern SOC operations
-- 📃 Developing a stronger understanding of **governance**, **risk management**, and **frameworks** such as **ISO 27001**
-- ☁️ Building cloud security foundations through **Azure**, **Entra ID**, **Sentinel**, and **Defender XDR**
-- 🏆 Current milestone target: **SC-900** | Next milestone target: **Security+**
-- 🧩 Planning to apply security concepts through CTFs, labs, internships, and personal projects
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AnelkaCH&theme=dark&ring=2563EB&fire=2563EB&currStreakLabel=2563EB" alt="GitHub Streak" /></a>
-
+<p>
+  <a href="https://www.linkedin.com/in/anelka-hariyanto">
+    <img src="https://img.shields.io/badge/LinkedIn-Anelka_Hariyanto-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AnelkaCH&style=flat-square&color=6e7681&label=profile+views" alt="Profile views" />
+<p>
+  <a href="https://anelka-hariyanto.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio_Website-Anelka_Hariyanto-FFBF00?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
-
