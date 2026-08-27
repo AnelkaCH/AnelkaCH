@@ -12,7 +12,7 @@
 - [**Password Strength Checker**](https://github.com/AnelkaCH/2026Project-Password-Strength-Checker)
   `NIST SP 800-63B` `Python` `Security Fundamentals`
   
-  A CLI tool that evaluates password strength against guessability-derived entropy scoring with the help of zxcvbn. It is also built with an NIST SP 800-63B compliance checker that prints out a compliance report. This is part of an ongoing password manager project.
+  A CLI tool that evaluates password strength using guessability-derived entropy scoring with the help of zxcvbn. It also includes an NIST SP 800-63B compliance checker that prints a compliance report, along with HaveIBeenPwned breach checking using k-anonymity. This is part of an ongoing password manager project.
 
 - [**Auth API with Supabase**](https://github.com/AnelkaCH/2026Project-FlyRank-Auth-API)
   `Supabase` `JWT` `Authentication` `Security`
