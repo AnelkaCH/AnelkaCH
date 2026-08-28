@@ -5,7 +5,7 @@
 ### 🔐 Security Projects
 
 - [**Job Monitoring System**](https://github.com/AnelkaCH/2026Project-Job-Monitoring-System)
-  `Python` `API Integration` `System Design`
+  `Python` `API Integration` `Automation`
 
   A Python-based job monitoring tool and notifier using public APIs, built with an adapter pattern spanning 10+ ATS platforms. Includes a rate limiter with hard-stop enforcement and robots.txt compliance checks to ensure the system works safely and ethically.
 
