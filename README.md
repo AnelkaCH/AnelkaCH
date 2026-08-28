@@ -5,7 +5,7 @@
 ### 🔐 Security Projects
 
 - [**Job Monitoring System**](https://github.com/AnelkaCH/2026Project-Job-Monitoring-System)
-  `Python` `API Integration` `Automation`
+  `Python` `REST APIs` `Automation`
 
   A Python-based job monitoring tool and notifier using public APIs, built with an adapter pattern spanning 10+ ATS platforms. Includes a rate limiter with hard-stop enforcement and robots.txt compliance checks to ensure the system works safely and ethically.
 
@@ -15,7 +15,7 @@
   A CLI tool that evaluates password strength using guessability-derived entropy scoring with the help of zxcvbn. It also includes an NIST SP 800-63B compliance checker that prints a compliance report, along with HaveIBeenPwned breach checking using k-anonymity. This is part of an ongoing password manager project.
 
 - [**Auth API with Supabase**](https://github.com/AnelkaCH/2026Project-FlyRank-Auth-API)
-  `Supabase` `JWT` `Authentication` `Security`
+  `Supabase` `JWT` `User Authentication`
 
   A backend authentication service built to practice real auth, not stubbed-out routes. Uses Supabase for sign up, log in, and log out, and issues JWTs to lock down protected endpoints, so a missing or invalid token gets a clean 401 instead of a fake pass-through.
 
