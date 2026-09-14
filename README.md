@@ -1,4 +1,4 @@
-<h1>Hi, I'm Anelka 👋 <br>Full Stack Developer, CS Student Specializing in Security (Singapore)</h1>
+<h1>Hi, I'm Anelka 👋 <br>Young Developer, CS Student Specializing in Security (Singapore) <br>SC-900 Certified ✅</h1>
 
 ## Featured Projects
 
